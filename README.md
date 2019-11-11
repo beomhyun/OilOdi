@@ -2,8 +2,8 @@
  최적 주유소 길안내 서비스
 
 ## Video
-[[https://media.giphy.com/media/cKWYYqUS9cVQaooIPQ/source.mov | height = 100px ]]
-<iframe src="https://giphy.com/embed/cKWYYqUS9cVQaooIPQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cKWYYqUS9cVQaooIPQ">via GIPHY</a></p>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 ## INDEX
 
 + [ROLE](#ROLE)
