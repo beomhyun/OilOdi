@@ -2,7 +2,7 @@
  최적 주유소 길안내 서비스
 
 ## Video
-![Alt Text](https://media.giphy.com/media/cKWYYqUS9cVQaooIPQ/source.mov)
+[[https://media.giphy.com/media/cKWYYqUS9cVQaooIPQ/source.mov | height = 100px ]]
 
 ## INDEX
 
