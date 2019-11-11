@@ -2,7 +2,7 @@
  최적 주유소 길안내 서비스
 
 ## Video
-<iframe width="854" height="480" src="https://www.youtube.com/embed/gGkLFVYjUiE" frameborder="0" allowfullscreen></iframe>
+!<iframe width="854" height="480" src="https://www.youtube.com/embed/gGkLFVYjUiE" frameborder="0" allowfullscreen></iframe>
 
 ## INDEX
 
