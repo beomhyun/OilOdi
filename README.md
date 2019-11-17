@@ -1,9 +1,6 @@
 # oilNav
  최적 주유소 길안내 서비스
 
-## Video
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
 ## INDEX
 
 + [ROLE](#ROLE)
